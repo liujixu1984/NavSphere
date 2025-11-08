@@ -154,6 +154,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=pianyuan.org",
           "enabled": true
+        },
+        {
+          "id": "site_1762583593725_m1lf1ehx6",
+          "title": "一元机场",
+          "href": "https://cloud.xn--4gq62f52gdss.asia/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloud.xn--4gq62f52gdss.asia",
+          "enabled": true
         }
       ],
       "subCategories": []
