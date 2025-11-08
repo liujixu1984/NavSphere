@@ -53,15 +53,6 @@
       "subCategories": []
     },
     {
-      "id": "1762582225019",
-      "title": "网盘阅读",
-      "icon": "Cloud",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1762582251675",
       "title": "V6地址",
       "icon": "User",
