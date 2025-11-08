@@ -15,7 +15,16 @@
       "icon": "Database",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762582914784_td5kqcj72",
+          "title": "Fate3617",
+          "href": "https://fate3617.i234.me:5008/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fate3617.i234.me",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
