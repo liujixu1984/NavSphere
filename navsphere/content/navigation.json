@@ -131,6 +131,14 @@
           "description": "",
           "icon": "/assets/favicon_1762582463376.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762582980226_xx682gkk2",
+          "title": "家同步",
+          "href": "http://fatehome.v6.rocks:8886/",
+          "description": "访问 fatehome.v6.rocks",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatehome.v6.rocks",
+          "enabled": true
         }
       ],
       "subCategories": []
