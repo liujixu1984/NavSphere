@@ -220,6 +220,14 @@
           "description": "",
           "icon": "/assets/img_1735256532235.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762584034385_dxvgbgiya",
+          "title": "luckey",
+          "href": "http://fatehome.v6.rocks:16601/",
+          "description": "",
+          "icon": "/assets/img_1735256532235.png",
+          "enabled": true
         }
       ],
       "subCategories": []
