@@ -24,7 +24,16 @@
       "icon": "Video",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762582527913_p17eggquw",
+          "title": "首页 | 酸奶",
+          "href": "https://suannai.link",
+          "description": "",
+          "icon": "/assets/favicon_1762582516496.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
