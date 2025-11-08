@@ -20,6 +20,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=jd.fate3617.i234.me",
           "enabled": true
+        },
+        {
+          "id": "site_1762583276535_6q4fbzqbb",
+          "title": "单位3.2",
+          "href": "http://lede.fate3617.i234.me:5007/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lede.fate3617.i234.me",
+          "enabled": true
         }
       ],
       "subCategories": [],
