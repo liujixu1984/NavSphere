@@ -72,6 +72,14 @@
           "description": "",
           "icon": "/assets/favicon_1762582779845.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1762582818865_e94yfbs70",
+          "title": "片源",
+          "href": "https://pianyuan.org/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pianyuan.org",
+          "enabled": true
         }
       ],
       "subCategories": []
