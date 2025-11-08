@@ -4,7 +4,16 @@
       "id": "1",
       "title": "要用的",
       "icon": "Folder",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762583217912_jzzbyr5fc",
+          "title": "签到",
+          "href": "http://qd.fate3617.i234.me:5007/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=qd.fate3617.i234.me",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
