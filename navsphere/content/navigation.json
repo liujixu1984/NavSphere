@@ -28,6 +28,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=lede.fate3617.i234.me",
           "enabled": true
+        },
+        {
+          "id": "site_1762583328772_jxe6g4tup",
+          "title": "单位 宝塔Linux面板",
+          "href": "http://bt.fate3617.i234.me:5007/",
+          "description": "",
+          "icon": "http://bt.fate3617.i234.me:5007/static/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
