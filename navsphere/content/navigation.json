@@ -147,6 +147,14 @@
           "description": "",
           "icon": "/assets/favicon_1762582463376.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762583193295_jhp1of3iy",
+          "title": "家小雅",
+          "href": "http://fatehome.v6.rocks:5678/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatehome.v6.rocks",
+          "enabled": true
         }
       ],
       "subCategories": []
