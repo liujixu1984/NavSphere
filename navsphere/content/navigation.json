@@ -162,6 +162,14 @@
           "description": "",
           "icon": "/assets/img_1735256532235.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762584264114_mmaface8e",
+          "title": "电影天堂",
+          "href": "https://www.dytt8899.com/",
+          "description": "",
+          "icon": "/assets/favicon_1762584253701.png",
+          "enabled": true
         }
       ],
       "subCategories": []
