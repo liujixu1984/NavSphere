@@ -39,6 +39,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=fate3617.quickconnect.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1762583122381_q1hssskyh",
+          "title": "fate的alist挂载",
+          "href": "http://alist.fate3617.i234.me:5007/",
+          "description": "",
+          "icon": "/assets/favicon_1762583115558.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
