@@ -50,6 +50,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatehome.v6.rocks",
           "enabled": true
+        },
+        {
+          "id": "site_1762582318906_v3a8i1ifa",
+          "title": "Fatewx1",
+          "href": "http://fatewx1.v6.rocks:8880",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatewx1.v6.rocks",
+          "enabled": true
         }
       ],
       "subCategories": []
