@@ -56,6 +56,14 @@
           "description": "",
           "icon": "/assets/favicon_1762582713797.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762582761112_b9qh01kvm",
+          "title": "硬核指南",
+          "href": "https://yinghezhinan.com/",
+          "description": "",
+          "icon": "/assets/favicon_1762582751912.png",
+          "enabled": true
         }
       ],
       "subCategories": []
