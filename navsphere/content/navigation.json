@@ -4,16 +4,7 @@
       "id": "1",
       "title": "要用的",
       "icon": "Folder",
-      "items": [
-        {
-          "id": "site_1762572628841_1proe0scf",
-          "title": "1921",
-          "href": "http://192.18.1",
-          "description": "访问 192.18.0.1",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.18.0.1",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [],
       "description": "",
       "enabled": true
