@@ -2,8 +2,8 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "title": "要用的",
+      "icon": "Folder",
       "items": [
         {
           "id": "site_1762572628841_1proe0scf",
