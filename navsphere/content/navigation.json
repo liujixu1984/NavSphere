@@ -48,6 +48,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=yiso.eu.org",
           "enabled": true
+        },
+        {
+          "id": "site_1762582724873_iumsgzeig",
+          "title": "dy131",
+          "href": "https://www.dy131.org",
+          "description": "",
+          "icon": "/assets/favicon_1762582713797.png",
+          "enabled": true
         }
       ],
       "subCategories": []
