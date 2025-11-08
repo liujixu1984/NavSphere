@@ -26,7 +26,7 @@
           "title": "单位3.2",
           "href": "http://lede.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lede.fate3617.i234.me",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -34,7 +34,7 @@
           "title": "单位 宝塔Linux面板",
           "href": "http://bt.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "http://bt.fate3617.i234.me:5007/static/favicon.ico",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -42,7 +42,7 @@
           "title": "其他",
           "href": "http://dh.fate3617.i234.me:5007/fate/kms.html",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dh.fate3617.i234.me",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         }
       ],
@@ -62,7 +62,7 @@
           "title": "Fate3617",
           "href": "https://fate3617.i234.me:5008/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fate3617.i234.me",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -70,7 +70,7 @@
           "title": "群辉同步",
           "href": "http://wl.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wl.fate3617.i234.me",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -78,7 +78,7 @@
           "title": "群辉qc音乐",
           "href": "https://fate3617.quickconnect.cn/audio",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fate3617.quickconnect.cn",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -86,7 +86,7 @@
           "title": "fate的alist挂载",
           "href": "http://alist.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "/assets/favicon_1762583115558.svg",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         }
       ],
@@ -120,7 +120,7 @@
           "title": "易搜",
           "href": "https://yiso.eu.org/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yiso.eu.org",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -152,7 +152,7 @@
           "title": "片源",
           "href": "https://pianyuan.org/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pianyuan.org",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -160,7 +160,7 @@
           "title": "一元机场",
           "href": "https://cloud.xn--4gq62f52gdss.asia/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloud.xn--4gq62f52gdss.asia",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         }
       ],
@@ -178,7 +178,7 @@
           "title": "家路由",
           "href": "http://fatehome.v6.rocks:8880/cgi-bin/luci/admin/status/overview  ",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatehome.v6.rocks",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -186,7 +186,7 @@
           "title": "单位wx1",
           "href": "http://fatewx1.v6.rocks:8880",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatewx1.v6.rocks",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -202,7 +202,7 @@
           "title": "家小雅",
           "href": "http://fatehome.v6.rocks:5678/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatehome.v6.rocks",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         },
         {
@@ -210,7 +210,7 @@
           "title": "硬盘状态",
           "href": "http://fatehome.v6.rocks:8880/log/hdd.log",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatehome.v6.rocks",
+          "icon": "/assets/img_1735256532235.png",
           "enabled": true
         }
       ],
