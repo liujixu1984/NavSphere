@@ -40,6 +40,14 @@
           "description": "",
           "icon": "/assets/favicon_1762582609886.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762582656323_oa1jx06cu",
+          "title": "易搜",
+          "href": "https://yiso.eu.org/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yiso.eu.org",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -50,16 +58,7 @@
       "icon": "Cloud",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1762582656323_oa1jx06cu",
-          "title": "易搜",
-          "href": "https://yiso.eu.org/",
-          "description": "访问 yiso.eu.org",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yiso.eu.org",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
