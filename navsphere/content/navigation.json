@@ -32,6 +32,14 @@
           "description": "",
           "icon": "/assets/favicon_1762582516496.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1762582617792_m4p4jn9ye",
+          "title": "猫狸盘搜",
+          "href": "https://www.alipansou.com/",
+          "description": "",
+          "icon": "/assets/favicon_1762582609886.png",
+          "enabled": true
         }
       ],
       "subCategories": []
