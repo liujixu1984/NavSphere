@@ -23,6 +23,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=fate3617.i234.me",
           "enabled": true
+        },
+        {
+          "id": "site_1762582936363_3djbl7oz9",
+          "title": "群辉同步",
+          "href": "http://wl.fate3617.i234.me:5007/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wl.fate3617.i234.me",
+          "enabled": true
         }
       ],
       "subCategories": []
