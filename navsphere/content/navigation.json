@@ -64,6 +64,14 @@
           "description": "",
           "icon": "/assets/favicon_1762582751912.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762582790102_zx94f14zz",
+          "title": "大佬点入",
+          "href": "https://dalao.ru/",
+          "description": "",
+          "icon": "/assets/favicon_1762582779845.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
