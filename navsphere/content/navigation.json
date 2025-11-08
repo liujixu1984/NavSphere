@@ -31,6 +31,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wl.fate3617.i234.me",
           "enabled": true
+        },
+        {
+          "id": "site_1762583096783_r78nygwdi",
+          "title": "群辉qc音乐",
+          "href": "https://fate3617.quickconnect.cn/audio",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fate3617.quickconnect.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
