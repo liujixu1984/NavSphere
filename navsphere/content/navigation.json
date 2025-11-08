@@ -17,6 +17,15 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1762582189015",
+      "title": "NAS",
+      "icon": "Database",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
