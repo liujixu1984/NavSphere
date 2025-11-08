@@ -58,6 +58,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=fatewx1.v6.rocks",
           "enabled": true
+        },
+        {
+          "id": "site_1762582477465_v5l24azcb",
+          "title": "dynv6",
+          "href": "https://dynv6.com/zones  ",
+          "description": "",
+          "icon": "/assets/favicon_1762582463376.png",
+          "enabled": true
         }
       ],
       "subCategories": []
