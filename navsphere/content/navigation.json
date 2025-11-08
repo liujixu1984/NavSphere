@@ -6,22 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "",
-          "icon": "/assets/images/logos/vercel.png",
-          "enabled": true
-        },
-        {
-          "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "",
-          "icon": "/assets/images/logos/analytics.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1762572628841_1proe0scf",
           "title": "1921",
           "href": "http://192.18.1",
