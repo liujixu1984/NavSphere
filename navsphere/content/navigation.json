@@ -18,7 +18,7 @@
           "title": "单位青龙面板",
           "href": "http://jd.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -26,7 +26,7 @@
           "title": "单位3.2",
           "href": "http://lede.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -34,7 +34,7 @@
           "title": "单位 宝塔Linux面板",
           "href": "http://bt.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -42,7 +42,7 @@
           "title": "单位其他",
           "href": "http://dh.fate3617.i234.me:5007/fate/kms.html",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         }
       ],
@@ -62,7 +62,7 @@
           "title": "单位群辉Fate3617",
           "href": "https://fate3617.i234.me:5008/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -70,7 +70,7 @@
           "title": "单位群辉同步",
           "href": "http://wl.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -78,7 +78,7 @@
           "title": "群辉qc音乐",
           "href": "https://fate3617.quickconnect.cn/audio",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -86,7 +86,7 @@
           "title": "单位的alist",
           "href": "http://alist.fate3617.i234.me:5007/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         }
       ],
@@ -104,7 +104,7 @@
           "title": "首页 | 酸奶",
           "href": "https://suannai.link",
           "description": "",
-          "icon": "/assets/favicon_1762582516496.ico",
+          "icon": "",
           "enabled": true
         },
         {
@@ -112,7 +112,7 @@
           "title": "猫狸盘搜",
           "href": "https://www.alipansou.com/",
           "description": "",
-          "icon": "/assets/favicon_1762582609886.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -120,7 +120,7 @@
           "title": "易搜",
           "href": "https://yiso.eu.org/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -128,7 +128,7 @@
           "title": "dy131",
           "href": "https://www.dy131.org",
           "description": "",
-          "icon": "/assets/favicon_1762582713797.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -136,7 +136,7 @@
           "title": "硬核指南",
           "href": "https://yinghezhinan.com/",
           "description": "",
-          "icon": "/assets/favicon_1762582751912.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -144,7 +144,7 @@
           "title": "大佬点入",
           "href": "https://dalao.ru/",
           "description": "",
-          "icon": "/assets/favicon_1762582779845.ico",
+          "icon": "",
           "enabled": true
         },
         {
@@ -152,7 +152,7 @@
           "title": "片源",
           "href": "https://pianyuan.org/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -160,7 +160,7 @@
           "title": "一元机场",
           "href": "https://cloud.xn--4gq62f52gdss.asia/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -168,7 +168,7 @@
           "title": "电影天堂",
           "href": "https://www.dytt8899.com/",
           "description": "",
-          "icon": "/assets/favicon_1762584253701.png",
+          "icon": "",
           "enabled": true
         }
       ],
@@ -186,7 +186,7 @@
           "title": "家路由",
           "href": "http://fatehome.v6.rocks:8880/cgi-bin/luci/admin/status/overview  ",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -194,7 +194,7 @@
           "title": "单位wx1",
           "href": "http://fatewx1.v6.rocks:8880",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -202,7 +202,7 @@
           "title": "dynv6",
           "href": "https://dynv6.com/zones  ",
           "description": "",
-          "icon": "/assets/favicon_1762582463376.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -210,7 +210,7 @@
           "title": "家小雅",
           "href": "http://fatehome.v6.rocks:5678/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -218,7 +218,7 @@
           "title": "家硬盘状态",
           "href": "http://fatehome.v6.rocks:8880/log/hdd.log",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -226,7 +226,7 @@
           "title": "家qb下载",
           "href": "http://fatehome.v6.rocks:8082/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         },
         {
@@ -234,7 +234,7 @@
           "title": "家lucky",
           "href": "http://fatehome.v6.rocks:16601/",
           "description": "",
-          "icon": "/assets/img_1735256532235.png",
+          "icon": "",
           "enabled": true
         }
       ],
