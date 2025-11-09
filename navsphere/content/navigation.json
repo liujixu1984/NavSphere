@@ -170,6 +170,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1762670168541_qfffo9vzf",
+          "title": "阅读webdav",
+          "href": "https://aki.teracloud.jp/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
