@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1",
-      "title": "要用的",
-      "icon": "Folder",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "1762582189015",
       "title": "NAS",
       "icon": "Database",
