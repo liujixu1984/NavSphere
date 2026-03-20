@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1762582189015",
-      "title": "NAS",
-      "icon": "Database",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1762582205233",
       "title": "资源",
       "icon": "Video",
