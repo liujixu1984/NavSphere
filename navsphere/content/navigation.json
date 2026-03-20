@@ -4,48 +4,7 @@
       "id": "1",
       "title": "要用的",
       "icon": "Folder",
-      "items": [
-        {
-          "id": "site_1762583217912_jzzbyr5fc",
-          "title": "单位签到",
-          "href": "http://qd.fate3617.i234.me:5007/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583257009_p3ssg9uyx",
-          "title": "单位青龙面板",
-          "href": "http://jd.fate3617.i234.me:5007/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583276535_6q4fbzqbb",
-          "title": "单位3.2",
-          "href": "http://lede.fate3617.i234.me:5007/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583328772_jxe6g4tup",
-          "title": "单位 宝塔Linux面板",
-          "href": "http://bt.fate3617.i234.me:5007/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583385287_6svkra99w",
-          "title": "单位其他",
-          "href": "http://dh.fate3617.i234.me:5007/fate/kms.html",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [],
       "description": "",
       "enabled": true
@@ -56,40 +15,7 @@
       "icon": "Database",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1762582914784_td5kqcj72",
-          "title": "单位群辉Fate3617",
-          "href": "https://fate3617.i234.me:5008/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762582936363_3djbl7oz9",
-          "title": "单位群辉同步",
-          "href": "http://wl.fate3617.i234.me:5007/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583096783_r78nygwdi",
-          "title": "群辉qc音乐",
-          "href": "https://fate3617.quickconnect.cn/audio",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583122381_q1hssskyh",
-          "title": "单位的alist",
-          "href": "http://alist.fate3617.i234.me:5007/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
@@ -209,30 +135,6 @@
           "id": "site_1762582477465_v5l24azcb",
           "title": "dynv6",
           "href": "https://dynv6.com/zones  ",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583193295_jhp1of3iy",
-          "title": "家小雅",
-          "href": "http://fatehome.v6.rocks:5678/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583360769_oqljmg9ti",
-          "title": "家硬盘状态",
-          "href": "http://fatehome.v6.rocks:8880/log/hdd.log",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "site_1762583993957_u3kk0hk9f",
-          "title": "家qb下载",
-          "href": "http://fatehome.v6.rocks:8082/",
           "description": "",
           "icon": "",
           "enabled": true
